@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Grinda AI. Great products shouldn't stop at the border. Export sales infrastructure for the AI era.">
+  <img src="https://raw.githubusercontent.com/FINGU-GRINDA/.github/main/profile/assets/banner.png" width="100%" alt="Grinda AI. Great products shouldn't stop at the border. Export sales infrastructure for the AI era.">
 </p>
 
 **Agents find the buyers, write to them in their own language and run the follow-up. People make the calls.**
